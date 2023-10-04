@@ -8,5 +8,6 @@
 .vscode/
 .env
 .ssh
+*.plan.*
 **/node_modules/
 .terraform.lock.hcl
